@@ -85,7 +85,7 @@ const BuyNowModal = ({ addressInfo, setAddressInfo, buyNowFunction }) => {
                     </div>
 
                     <div className="">
-                    <a href="https://wa.me/9306725995?text=I%20just%20placed%20an%20order%20on%20your%20website" target="_blank">
+                    <a href="https://wa.me/09306725995?text=I%20just%20placed%20an%20order%20on%20your%20website" target="_blank">
                         <Button
 
                             type="button"
