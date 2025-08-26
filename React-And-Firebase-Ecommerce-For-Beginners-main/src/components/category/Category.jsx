@@ -3,36 +3,36 @@ import { useNavigate } from "react-router";
 // category 
 const category = [
     {
-        image: 'https://cdn-icons-png.flaticon.com/512/317/317564.png',
-        name: 'sweets'
+        image: 'https://cdn-icons-png.flaticon.com/512/1046/1046784.png',
+        name: 'Grocery & Staples'   // (Atta, Rice, Dal, Sugar, Oil)
     },
     {
-        image: 'https://cdn-icons-png.flaticon.com/512/859/859293.png',
-        name: 'snacks'
+        image: 'https://cdn-icons-png.flaticon.com/512/2921/2921822.png',
+        name: 'Beverages'          // (Tea, Coffee, Soft Drinks, Juices)
     },
     {
-        image: 'https://cdn-icons-png.flaticon.com/512/2160/2160222.png',
-        name: 'namkeen'
+        image: 'https://cdn-icons-png.flaticon.com/512/3076/3076067.png',
+        name: 'Personal Care'      // (Soap, Shampoo, Toothpaste, Oil)
     },
     {
-        image: 'https://cdn-icons-png.flaticon.com/512/448/448003.png',
-        name: 'cake'
+        image: 'https://cdn-icons-png.flaticon.com/512/1046/1046858.png',
+        name: 'Snacks & Biscuits'  // (Chips, Namkeen, Biscuits, Chocolates)
     },
     {
-        image: 'https://cdn-icons-png.flaticon.com/512/2234/2234851.png',
-        name: 'choclate'
+        image: 'https://cdn-icons-png.flaticon.com/512/2921/2921827.png',
+        name: 'Household Items'    // (Detergent, Phenyl, Cleaner)
     },
     {
-        image: 'https://cdn-icons-png.flaticon.com/512/6121/6121439.png',
-        name: 'colddrink'
+        image: 'https://cdn-icons-png.flaticon.com/512/1046/1046857.png',
+        name: 'Dairy Products'     // (Milk, Curd, Butter, Paneer)
     },
     {
-        image: 'https://cdn-icons-png.flaticon.com/512/3703/3703377.png',
-        name: 'fast-food'
+        image: 'https://cdn-icons-png.flaticon.com/512/706/706164.png',
+        name: 'Edible Oils & Ghee' // (Mustard Oil, Refined Oil, Desi Ghee)
     },
     {
-        image: 'https://cdn-icons-png.flaticon.com/512/992/992733.png',
-        name: 'icecream'
+        image: 'https://cdn-icons-png.flaticon.com/512/1046/1046786.png',
+        name: 'Pulses & Rice'      // (Chana Dal, Arhar Dal, Basmati Rice)
     }
 ]
 
